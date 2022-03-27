@@ -1,0 +1,10 @@
+C:\Users\34615\Desktop\2n any 2n quatrimestre\SO\Ejericiio temperatura\CambioDeTemperaturaCliente\CambioDeTemperaturaCliente\bin\Debug\CambioDeTemperaturaCliente.exe.config
+C:\Users\34615\Desktop\2n any 2n quatrimestre\SO\Ejericiio temperatura\CambioDeTemperaturaCliente\CambioDeTemperaturaCliente\bin\Debug\CambioDeTemperaturaCliente.exe
+C:\Users\34615\Desktop\2n any 2n quatrimestre\SO\Ejericiio temperatura\CambioDeTemperaturaCliente\CambioDeTemperaturaCliente\bin\Debug\CambioDeTemperaturaCliente.pdb
+C:\Users\34615\Desktop\2n any 2n quatrimestre\SO\Ejericiio temperatura\CambioDeTemperaturaCliente\CambioDeTemperaturaCliente\obj\Debug\CambioDeTemperaturaCliente.csprojAssemblyReference.cache
+C:\Users\34615\Desktop\2n any 2n quatrimestre\SO\Ejericiio temperatura\CambioDeTemperaturaCliente\CambioDeTemperaturaCliente\obj\Debug\CambioDeTemperaturaCliente.Form1.resources
+C:\Users\34615\Desktop\2n any 2n quatrimestre\SO\Ejericiio temperatura\CambioDeTemperaturaCliente\CambioDeTemperaturaCliente\obj\Debug\CambioDeTemperaturaCliente.Properties.Resources.resources
+C:\Users\34615\Desktop\2n any 2n quatrimestre\SO\Ejericiio temperatura\CambioDeTemperaturaCliente\CambioDeTemperaturaCliente\obj\Debug\CambioDeTemperaturaCliente.csproj.GenerateResource.cache
+C:\Users\34615\Desktop\2n any 2n quatrimestre\SO\Ejericiio temperatura\CambioDeTemperaturaCliente\CambioDeTemperaturaCliente\obj\Debug\CambioDeTemperaturaCliente.csproj.CoreCompileInputs.cache
+C:\Users\34615\Desktop\2n any 2n quatrimestre\SO\Ejericiio temperatura\CambioDeTemperaturaCliente\CambioDeTemperaturaCliente\obj\Debug\CambioDeTemperaturaCliente.exe
+C:\Users\34615\Desktop\2n any 2n quatrimestre\SO\Ejericiio temperatura\CambioDeTemperaturaCliente\CambioDeTemperaturaCliente\obj\Debug\CambioDeTemperaturaCliente.pdb
